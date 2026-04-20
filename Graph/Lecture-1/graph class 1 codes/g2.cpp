@@ -123,3 +123,5 @@ int main() {
   g.dfsTraversal(7);
   return 0;
 }
+//in dfs what we have done we just we started from src to each and every node
+//than helper function help to find the depth of neighbour
